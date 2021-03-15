@@ -31,22 +31,6 @@ a:hover {
   position: fixed;
   text-align: center;
 }
-.main-nav-interests {
-  width: 100%;
-  background: black;
-  min-height: 30px;
-  padding: 10px;
-  position: fixed;
-  text-align: center;
-}
-.main-nav-experience {
-  width: 100%;
-  background: black;
-  min-height: 30px;
-  padding: 10px;
-  position: fixed;
-  text-align: center;
-}
 .nav {
   display: flex;
   justify-content: space-around;
@@ -55,7 +39,6 @@ a:hover {
   margin: 0 auto;
   padding: 0;
 }
-
 .nav .name {
     display: block;
     margin-right: auto;
